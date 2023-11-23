@@ -1,7 +1,7 @@
 name = "otherFiles"
 
 [dependencies]
-rolling = ["https://github.com/WinstonMDP/WinstonMDP.git"]
+rolling = []
 
 [[dependencies.commit]]
 repository = "https://github.com/WinstonMDP/githubOtherFiles.git"
