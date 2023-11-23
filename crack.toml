@@ -1,0 +1,4 @@
+name = "otherFiles"
+
+[dependencies]
+rolling = ["https://github.com/WinstonMDP/WinstonMDP.git"]
