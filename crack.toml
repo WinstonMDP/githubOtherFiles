@@ -1,8 +1,1 @@
 name = "otherFiles"
-
-[dependencies]
-rolling = []
-
-[[dependencies.commit]]
-repository = "https://github.com/WinstonMDP/githubOtherFiles.git"
-commit = "e6172eb8df2c3ec77a6bbdfbee7285f26ccbbae4"
