@@ -1,1 +1,4 @@
 name = "otherFiles"
+
+[[dependencies.rolling]]
+repo = "https://github.com/WinstonMDP/githubOtherFiles.git"
