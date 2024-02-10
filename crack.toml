@@ -1,5 +1,5 @@
 name = "otherFiles"
 
-[[dependencies]]
+[[deps]]
 repo = "https://github.com/WinstonMDP/githubOtherFiles.git"
 branch = "cyclic_2"
