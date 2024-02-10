@@ -1,1 +1,5 @@
 name = "otherFiles"
+
+[[dependencies]]
+repo = "https://github.com/WinstonMDP/githubOtherFiles.git"
+branch = "cyclic_2"
