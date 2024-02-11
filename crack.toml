@@ -1,4 +1,4 @@
-name = "otherFiles"
+name = "otherDependencies"
 
 [[deps]]
 repo = "https://github.com/WinstonMDP/githubOtherFiles.git"
